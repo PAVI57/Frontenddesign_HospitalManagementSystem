@@ -1,1 +1,1 @@
-# Frontenddesign_HospitalManagementSystem
+# FrontEndDesign_HospitalManagamentSystem
